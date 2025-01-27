@@ -2,7 +2,6 @@
 
 *A Localized Retrieval-Augmented Generation System for Intelligent PDF Q&A Using DeepSeek and Ollama*
 
-[![GitHub Stars](https://img.shields.io/github/stars/yourusername/deepseek-ragent?style=for-the-badge)](https://github.com/PranayS676/DeepSeek-RAGenius)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
