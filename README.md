@@ -43,4 +43,4 @@ Install dependencies:
 pip install -r requirements.txt
 Create PDF directory:
 mkdir -p pdf
-streamlit run app.py
+streamlit run main.py
