@@ -5,7 +5,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
-![DeepSeek Logo](https://raw.githubusercontent.com/PranayS676/DeepSeek-RAGenius/main/deepseek.webp)
+![DeepSeek Logo](https://github.com/PranayS676/DeepSeek-RAGenius/blob/main/deepseek.png)
 
 ![Demo Screenshot](https://github.com/PranayS676/DeepSeek-RAGenius/blob/main/Screenshot%202025-01-27%20164816.png) 
 
