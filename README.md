@@ -6,7 +6,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![Python 3.11+](https://img.shields.io/badge/Python-3.11%2B-blue?style=for-the-badge&logo=python)](https://www.python.org/)
 
-![Demo Screenshot]("C:\Users\prana\Downloads\Screenshot 2025-01-27 164816.png") 
+![Demo Screenshot](C:\Users\prana\Downloads\Screenshot 2025-01-27 164816.png) 
 
 ## 🌟 Overview
 An offline RAG system that enables natural language questioning of PDF documents using:
